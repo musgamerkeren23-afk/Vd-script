@@ -8,7 +8,7 @@ local camera = workspace.CurrentCamera
 local mouse = player:GetMouse()
 
 local VALID_KEY = "VD_Pro_25926#2952#48key"
-local GET_KEY_URL = "https://lootdest.org/s?fr8J0dDQ"
+local GET_KEY_URL = "https://lootdest.org/s?wpZG8Fln"
 
 local C_BG = Color3.fromRGB(12, 0, 0)
 local C_SIDEBAR = Color3.fromRGB(18, 0, 0)
